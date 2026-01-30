@@ -1,0 +1,7 @@
+.idea/
+konami
+vmlinux.h
+konami_bpfeb.go
+konami_bpfeb.o
+konami_bpfel.go
+konami_bpfel.o
